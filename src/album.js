@@ -69,7 +69,7 @@ export default function Album() {
         <Toolbar>
           <CameraIcon className={classes.icon} />
           <Typography variant="h6" color="inherit" noWrap>
-            Christ Amen's Portfolio
+            Amen's Portfolio
           </Typography>
         </Toolbar>
       </AppBar>
@@ -77,7 +77,7 @@ export default function Album() {
         {/* Hero unit */}
         <div className={classes.heroContent}>
           <Container maxWidth="sm">
-            <Typography component="h1" variant="h2" align="center" color="textPrimary" gutterBottom>
+            <Typography component="h2" variant="h3" align="center" color="textPrimary" gutterBottom>
               About Me
             </Typography>
             <Typography variant="h5" align="center" color="textSecondary" paragraph>
