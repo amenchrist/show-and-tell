@@ -78,7 +78,7 @@ export default function Album() {
         <div className={classes.heroContent}>
           <Container maxWidth="sm">
             <Typography component="h2" variant="h3" align="center" color="textPrimary" gutterBottom>
-              About Me
+              {/* About Me */}
             </Typography>
             <Typography variant="h5" align="center" color="textSecondary" paragraph>
             I am a diverse-skilled young person with a growing enthusiasm for technology, media and providing solutions where needed.
